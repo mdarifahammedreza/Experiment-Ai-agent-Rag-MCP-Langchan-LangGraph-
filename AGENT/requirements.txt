@@ -1,6 +1,0 @@
-fastapi
-pydantic
-ollama
-git+https://github.com/openai/whisper.git
-uvicorn
-python-multipart
